@@ -16,7 +16,7 @@
 <!-- END main -->
 
 <script src="http://localhost/dms/assets/js/modernizr.min.js"></script>
-<script src="http://localhost/dms/assets/js/jquery.min.js"></script>
+
 <script src="http://localhost/dms/assets/js/moment.min.js"></script>
 		
 <script src="http://localhost/dms/assets/js/popper.min.js"></script>
@@ -26,6 +26,9 @@
 <script src="http://localhost/dms/assets/js/fastclick.js"></script>
 <script src="http://localhost/dms/assets/js/jquery.blockUI.js"></script>
 <script src="http://localhost/dms/assets/js/jquery.nicescroll.js"></script>
+
+<script src="http://localhost/dms/assets/plugins/datetimepicker/js/moment.min.js"></script>
+<script src="http://localhost/dms/assets/plugins/datetimepicker/js/daterangepicker.js"></script>
 
 <!-- App js -->
 <script src="http://localhost/dms/assets/js/pikeadmin.js"></script>

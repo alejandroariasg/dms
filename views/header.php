@@ -22,6 +22,9 @@
 		<!-- BEGIN CSS for this page -->
 		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css"/>
 		<!-- END CSS for this page -->
+		<script src="http://localhost/dms/assets/js/jquery.min.js"></script>
+
+		<link href="http://localhost/dms/assets/plugins/datetimepicker/css/daterangepicker.css" rel="stylesheet" /> 
 		
 </head>
 
