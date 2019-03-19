@@ -291,8 +291,9 @@ a {
   font-size: 20px;
   font-weight: 200;
   text-transform: uppercase;
-  letter-spacing: 1px; 
-  line-height: 48px; }
+  letter-spacing: 18px;
+  line-height: 48px;
+  }
   
 .logo span span {
     color: #fff; }
