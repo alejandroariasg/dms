@@ -172,8 +172,13 @@
         $("#tipo_entidad").change(function(){
             if($("#tipo_entidad").val()){
                 $(".general").removeAttr('disabled');
-                if($("#tipo_entidad").val() > 1){
+                
+                if($("#tipo_entidad").val() == 1 || $("#tipo_entidad").val() == 2 ){
                     $(".cliente_proveedor").removeAttr('disabled');
+                }
+
+                if($("#tipo_entidad").val() == 3){
+                    $(".cliente_proveedor").prop("disabled", true);
                 }
             }
             
